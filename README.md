@@ -2,7 +2,6 @@
 
 # I'm Veliko
 ##### Loving Nature 🌳 | Urban Mobility 🚴‍♂️ | Sustainability ♻️ | Social Economy ✌🏼 | Pretzels 🥨
-###### Let's team up: 📍 Munich | [LinkedIn](https://www.linkedin.com/in/velikokardziev/) | [Twitter](https://twitter.com/vaupunkt) | [Instagram](https://www.instagram.com/vaupunkt/?hl=de)
 
 #### Currently Learning 🧑‍🎓
 - [Neue Fische](https://www.neuefische.de/) - Web Development Certification [![](https://geps.dev/progress/10)](#)
@@ -12,6 +11,8 @@
 #### Done ✅
 - [FreeCodeCamp](https://www.freecodecamp.org/) - Responsive Web Design [![](https://geps.dev/progress/100)](#)
 - [FreeCodeCamp](https://www.freecodecamp.org/) - JavaScript Algorithms and Data Structures [![](https://geps.dev/progress/100)](#)
+
+#### Let's team up: 📍 Munich | [LinkedIn](https://www.linkedin.com/in/velikokardziev/) | [Twitter](https://twitter.com/vaupunkt) | [Instagram](https://www.instagram.com/vaupunkt/?hl=de)
 
 <!--
 **vaupunkt/vaupunkt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
