@@ -1,17 +1,16 @@
-![Zufrie](https://user-images.githubusercontent.com/119793693/236848890-5e19be44-2e62-45ed-92bc-eef6cd05ae4c.png)
+[![Zufriedenheitsskalen von Ebay-Kleinanzeigen](https://user-images.githubusercontent.com/119793693/236852963-8280a650-30ff-4561-a20f-1514de2bfb1c.png)](#)
 
-### Hey Internet!
-###### Nature 🌳 | Urban Mobility 🚴‍♂️ | Sustainability ♻️ | Social Economy ✌🏼
+# I'm Veliko
 ###### Let's team up: [LinkedIn](https://www.linkedin.com/in/velikokardziev/) | [Twitter](https://twitter.com/vaupunkt) | [Instagram](https://www.instagram.com/vaupunkt/?hl=de)
 
 #### Currently Learning 
-- Neue Fische Web Development Certification ![](https://geps.dev/progress/10)
-- Harvards CS50’s Web Programming with Python and JavaScript ![](https://geps.dev/progress/40)
+- Neue Fische Web Development Certification [![](https://geps.dev/progress/10)](#)
+- Harvards CS50’s Web Programming with Python and JavaScript [![](https://geps.dev/progress/40)](#)
 
 
 #### Done ✅
-- FreeCodeCamp - Responsive Web Design ![](https://geps.dev/progress/100)
-- FreeCodeCamp - JavaScript Algorithms and Data Structures ![](https://geps.dev/progress/100)
+- FreeCodeCamp - Responsive Web Design [![](https://geps.dev/progress/100)](#)
+- FreeCodeCamp - JavaScript Algorithms and Data Structures [![](https://geps.dev/progress/100)](#)
 
 <!--
 **vaupunkt/vaupunkt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
