@@ -4,7 +4,7 @@
 ##### Loving Nature 🌳 | Urban Mobility 🚴‍♂️ | Sustainability ♻️ | Social Economy ✌🏼 | Pretzels 🥨
 ###### Let's team up: 📍 Munich | [LinkedIn](https://www.linkedin.com/in/velikokardziev/) | [Twitter](https://twitter.com/vaupunkt) | [Instagram](https://www.instagram.com/vaupunkt/?hl=de)
 
-#### Currently Learning 
+#### Currently Learning 🧑‍🎓
 - [Neue Fische](https://www.neuefische.de/) - Web Development Certification [![](https://geps.dev/progress/10)](#)
 - [Harvards CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0) - Web Programming with Python and JavaScript [![](https://geps.dev/progress/40)](#)
 
