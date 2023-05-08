@@ -1,9 +1,8 @@
 [![Zufriedenheitsskalen von Ebay-Kleinanzeigen](https://user-images.githubusercontent.com/119793693/236852963-8280a650-30ff-4561-a20f-1514de2bfb1c.png)](#)
 
 # I'm Veliko
-###### Loving Nature 🌳 | Urban Mobility 🚴‍♂️ | Sustainability ♻️ | Social Economy ✌🏼 | Pretzels 🥨
+##### Loving Nature 🌳 | Urban Mobility 🚴‍♂️ | Sustainability ♻️ | Social Economy ✌🏼 | Pretzels 🥨
 ###### Let's team up: 📍 Munich | [LinkedIn](https://www.linkedin.com/in/velikokardziev/) | [Twitter](https://twitter.com/vaupunkt) | [Instagram](https://www.instagram.com/vaupunkt/?hl=de)
-###### Loving:
 
 #### Currently Learning 
 - [Neue Fische](https://www.neuefische.de/) - Web Development Certification [![](https://geps.dev/progress/10)](#)
