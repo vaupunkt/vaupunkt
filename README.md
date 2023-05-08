@@ -4,13 +4,13 @@
 ###### Let's team up: [LinkedIn](https://www.linkedin.com/in/velikokardziev/) | [Twitter](https://twitter.com/vaupunkt) | [Instagram](https://www.instagram.com/vaupunkt/?hl=de)
 
 #### Currently Learning 
-- Neue Fische Web Development Certification [![](https://geps.dev/progress/10)](#)
-- Harvards CS50’s Web Programming with Python and JavaScript [![](https://geps.dev/progress/40)](#)
+- [Neue Fische](https://www.neuefische.de/) - Web Development Certification [![](https://geps.dev/progress/10)](#)
+- [Harvards CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0) - Web Programming with Python and JavaScript [![](https://geps.dev/progress/40)](#)
 
 
 #### Done ✅
-- FreeCodeCamp - Responsive Web Design [![](https://geps.dev/progress/100)](#)
-- FreeCodeCamp - JavaScript Algorithms and Data Structures [![](https://geps.dev/progress/100)](#)
+- [FreeCodeCamp](https://www.freecodecamp.org/) - Responsive Web Design [![](https://geps.dev/progress/100)](#)
+- [FreeCodeCamp](https://www.freecodecamp.org/) - JavaScript Algorithms and Data Structures [![](https://geps.dev/progress/100)](#)
 
 <!--
 **vaupunkt/vaupunkt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
