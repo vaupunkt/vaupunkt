@@ -4,7 +4,7 @@
 ##### Loving Nature 🌳 | Urban Mobility 🚴‍♂️ | Sustainability ♻️ | Social Economy ✌🏼 | Pretzels 🥨
 
 #### Currently Learning 🧑‍🎓
-- [Neue Fische](https://www.neuefische.de/) - Web Development [![](https://geps.dev/progress/10)](#)
+- [Neue Fische](https://www.neuefische.de/) - Web Development [![](https://geps.dev/progress/16)](#)
 - [Harvards CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0) - Web Programming with Python and JavaScript [![](https://geps.dev/progress/40)](#)
 
 
