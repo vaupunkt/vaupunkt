@@ -4,7 +4,7 @@
 ##### Loving Nature 🌳 | Urban Mobility 🚴‍♂️ | Sustainability ♻️ | Social Economy ✌🏼 | Pretzels 🥨
 
 #### Currently Learning 🧑‍🎓
-- [Neue Fische](https://www.neuefische.de/) - Web Development [![](https://geps.dev/progress/58)](#)
+- [Neue Fische](https://www.neuefische.de/) - Web Development [![](https://geps.dev/progress/67)](#)
 
 #### Done ✅
 - [FreeCodeCamp](https://www.freecodecamp.org/certification/vaupunkt/responsive-web-design) - Responsive Web Design [![](https://geps.dev/progress/100)](#)
