@@ -28,7 +28,8 @@
 - [Harvards CS50](https://certificates.cs50.io/2a7f131b-dc88-4cc9-ab95-504fd25710f6.pdf?size=letter) - Introduction to Computer Science [![](https://geps.dev/progress/100)](#)
 </details>
 
-#### Let's team up:
+<details><summary>Let's team up</summary>
 📍Munich
-
+  
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/velikokardziev) [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/vaupunkt) [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/vaupunkt)
+</details>
