@@ -5,23 +5,24 @@
 
 #### Tech Stack 🧑‍💻
 ##### Programming
-<p align="center">
+
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,html,css,js,flask,mongodb,nextjs,react,py" />
   </a>
-</p>
+
 
 ##### Design
-<p align="center">
+
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ae,ps,pr,ai" />
   </a>
-</p>
+
 
 #### Currently Learning 🧑‍🎓
 - [Neue Fische](https://www.neuefische.de/) - Web Development [![](https://geps.dev/progress/99)](#)
 
 <details><summary>Done ✅</summary>
+
 - [FreeCodeCamp](https://www.freecodecamp.org/certification/vaupunkt/front-end-development-libraries) - FrontEnd Development Libraries [![](https://geps.dev/progress/100)](#)
 - [FreeCodeCamp](https://www.freecodecamp.org/certification/vaupunkt/responsive-web-design) - Responsive Web Design [![](https://geps.dev/progress/100)](#)
 - [FreeCodeCamp](https://www.freecodecamp.org/certification/vaupunkt/javascript-algorithms-and-data-structures) - JavaScript Algorithms and Data Structures [![](https://geps.dev/progress/100)](#)
