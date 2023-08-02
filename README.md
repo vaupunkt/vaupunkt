@@ -19,7 +19,7 @@
 
 
 #### Currently Learning 🧑‍🎓
-- [Neue Fische](https://www.neuefische.de/) - Web Development [![](https://geps.dev/progress/99)](#)
+- [Neue Fische](https://www.neuefische.de/) - Web Development [![](https://geps.dev/progress/100)](#)
 
 <details><summary>Done ✅</summary>
 
