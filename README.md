@@ -17,9 +17,11 @@
     <img src="https://skillicons.dev/icons?i=ae,ps,pr,ai" />
   </a>
 
+### Currently Learning 👨‍🎓
+- [Neue Fische](https://www.neuefische.de/) - Web Development [![](https://geps.dev/progress/99)](#)
+
 <details><summary>Done ✅</summary>
 
-- [Neue Fische](https://www.neuefische.de/) - Web Development [![](https://geps.dev/progress/100)](#)
 - [FreeCodeCamp](https://www.freecodecamp.org/certification/vaupunkt/front-end-development-libraries) - FrontEnd Development Libraries [![](https://geps.dev/progress/100)](#)
 - [FreeCodeCamp](https://www.freecodecamp.org/certification/vaupunkt/responsive-web-design) - Responsive Web Design [![](https://geps.dev/progress/100)](#)
 - [FreeCodeCamp](https://www.freecodecamp.org/certification/vaupunkt/javascript-algorithms-and-data-structures) - JavaScript Algorithms and Data Structures [![](https://geps.dev/progress/100)](#)
