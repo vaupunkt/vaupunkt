@@ -4,7 +4,7 @@
 ##### Loving Nature 🌳 | Urban Mobility 🚴‍♂️ | Sustainability ♻️ | Social Economy ✌🏼 | Pretzels 🥨
 
 <details><summary>Let's team up</summary>
-📍Munich
+📍 Greifswald
   
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/velikokardziev) [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/vaupunkt)
 </details>
