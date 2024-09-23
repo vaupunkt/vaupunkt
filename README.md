@@ -1,19 +1,10 @@
 [![Zufriedenheitsskalen von Ebay-Kleinanzeigen](https://user-images.githubusercontent.com/119793693/236852963-8280a650-30ff-4561-a20f-1514de2bfb1c.png)](#)
 
-# I'm [Veliko](https://velikokardziev.de/)
-##### Loving Nature 🌳 | Urban Mobility 🚴‍♂️ | Sustainability ♻️ | Social Economy ✌🏼 | Pretzels 🥨
-
-<details><summary>Let's team up</summary>
-📍 Greifswald
-  
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/velikokardziev) [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/vaupunkt)
-</details>
-
 <div id="toc">
   <ul align="left" style="list-style: none">
     <summary>
       <h1>
-        👋 Hi, I'm [Veliko](https://velikokardziev.de/)
+        👋 Hi, I'm <a href="https://velikokardziev.de/">Veliko</a>
       </h1>
     </summary>
   </ul>
@@ -31,8 +22,6 @@
  **<h3 align="left">Skills</h3>**
 
 <p align="left"><img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white" height="32" alt="JavaScript" style="margin-right: 4px"> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="32" alt="TypeScript" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Python-306998?logo=python&logoColor=white" height="32" alt="Python" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" height="32" alt="Java" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Node.js-8CC84B?logo=node.js&logoColor=white" height="32" alt="Node.js" style="margin-right: 4px"> <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="32" alt="React" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-plain.svg" height="32" alt="Next.js" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Material_UI-007FFF?logo=material-ui&logoColor=white" height="32" alt="Material-UI" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Chart.js-FF6384?logo=chart.js&logoColor=white" height="32" alt="Chart.js" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" height="32" alt="Django" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" height="32" alt="Flask" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="32" alt="MySQL" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white" height="32" alt="Visual Studio Code" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white" height="32" alt="Adobe Photoshop" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?logo=adobe-illustrator&logoColor=white" height="32" alt="Adobe Illustrator" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?logo=adobe-premiere-pro&logoColor=white" height="32" alt="Adobe Premiere Pro" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Adobe_After_Effects-9999FF?logo=adobe-after-effects&logoColor=white" height="32" alt="Adobe After Effects" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Adobe_Lightroom-31A8FF?logo=adobe-lightroom&logoColor=white" height="32" alt="Adobe Lightroom" style="margin-right: 4px"></p>
-
- **<h3 align="left">GitHub Stats</h3>**
 
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sushilmagare10&theme=transparent&hide_title=true&layout=compact&langs_count=6&hide_progress=false&card_width=400&hide_border=false" alt="GitHub top-langs Card" />
